@@ -1,5 +1,9 @@
 # HrApp - Dependency Injection
 
+- AuthenticationService met SignIn, SignOut en Register methods
+    - AuthenticationResult klasse voor communicatie tussen controller en service
+- EmployeeRepository voor database operaties van employees
+
 ## Unit tests
 - Voeg een unit test toe om de Index methode van de EmployeeController te testen
 
